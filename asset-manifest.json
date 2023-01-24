@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.514b70b9.css",
-    "main.js": "/static/js/main.6d26bd3b.js",
+    "main.css": "/static/css/main.845b2635.css",
+    "main.js": "/static/js/main.ee75bc34.js",
     "static/media/pic2.png": "/static/media/pic2.274faea5e5f69c93a60c.png",
     "static/media/pic1.png": "/static/media/pic1.a98619a8fa6624c3cfcb.png",
+    "static/media/portfo3.png": "/static/media/portfo3.cf576219b2bfbe8ec705.png",
+    "static/media/portfo2.png": "/static/media/portfo2.25bee690e2b3bcb85ddd.png",
     "static/media/portfo1.png": "/static/media/portfo1.e84efd82c21860b43cbe.png",
-    "static/media/portfo2.png": "/static/media/portfo2.4dd8b02d3a48dbbf3491.png",
-    "static/media/AbhiResume.pdf": "/static/media/AbhiResume.fe03c37922686b8dfcb9.pdf",
+    "static/media/portfo6.png": "/static/media/portfo6.78e81ea07bb0bb9b6451.png",
+    "static/media/portfo7.png": "/static/media/portfo7.5e288a6946ebd0bc692d.png",
+    "static/media/portfo5.png": "/static/media/portfo5.59a92dc8ec62f4b4d10b.png",
+    "static/media/portfo4.png": "/static/media/portfo4.e47d9553c740ccde5f66.png",
+    "static/media/AbhiResume.pdf": "/static/media/AbhiResume.00b2a07d357917fb75ab.pdf",
     "index.html": "/index.html",
-    "main.514b70b9.css.map": "/static/css/main.514b70b9.css.map",
-    "main.6d26bd3b.js.map": "/static/js/main.6d26bd3b.js.map"
+    "main.845b2635.css.map": "/static/css/main.845b2635.css.map",
+    "main.ee75bc34.js.map": "/static/js/main.ee75bc34.js.map"
   },
   "entrypoints": [
-    "static/css/main.514b70b9.css",
-    "static/js/main.6d26bd3b.js"
+    "static/css/main.845b2635.css",
+    "static/js/main.ee75bc34.js"
   ]
 }
