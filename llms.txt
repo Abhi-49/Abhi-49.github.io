@@ -1,0 +1,43 @@
+# Abhishek Nadar — Digital Marketing Manager in Dubai
+
+> Portfolio website of Abhishek Nadar, a Dubai-based Digital Marketing Manager with hands-on experience in SEO, Google Ads, PPC, lead generation, social media marketing, analytics, WordPress, web development, and creative marketing design.
+
+This website presents Abhishek Nadar's professional background, education, services, work experience, measurable digital marketing performance, technical and marketing skills, portfolio projects, and contact information.
+
+Key areas of expertise include SEO, local SEO, Google Ads, PPC, lead generation, Google Analytics, Google Tag Manager, Meta Ads, Instagram Ads, Facebook Ads, WordPress, HTML, CSS, JavaScript, Canva, Photoshop, Illustrator, Figma, CapCut, Amazon marketing, content strategy, conversion optimization, and digital marketing reporting.
+
+Location: Dubai, United Arab Emirates.
+
+## Main Portfolio
+
+- [Home and Professional Profile](https://abhi-49.github.io/): Main portfolio page containing professional summary, education, services, work experience, marketing performance, skills, projects, and contact information.
+- [Education](https://abhi-49.github.io/#education): Education and professional training in Information Technology, web development, digital marketing, and data analytics.
+- [Services](https://abhi-49.github.io/#services): Digital marketing, Google Ads, WordPress and web development, SEO, content marketing, social media advertising, and creative marketing services.
+- [Experience](https://abhi-49.github.io/#experience): Professional and freelance experience in digital marketing, website development, Amazon listing optimization, and digital marketing training.
+- [Performance and ROI](https://abhi-49.github.io/#performance): Measurable campaign performance including enquiries, conversion rate, cost per lead, and overall net marketing ROI.
+- [Skills](https://abhi-49.github.io/#skills): Marketing, advertising, analytics, SEO, web development, design, and content creation tools and skills.
+- [Contact](https://abhi-49.github.io/#contact): Contact and hiring section for employment, freelance projects, and digital marketing opportunities.
+
+## Portfolio Projects
+
+- [Live Website Projects](https://abhi-49.github.io/websites.html): Selected website and landing-page projects demonstrating responsive web design, WordPress, conversion-focused layouts, and digital marketing implementation.
+- [Poster and Social Media Designs](https://abhi-49.github.io/Posters.html): Portfolio of social media posters and campaign creatives created for marketing and brand communication.
+- [Brochure and Presentation Designs](https://abhi-49.github.io/PDF%26PPT.html): Brochure, presentation, marketing report, and professional collateral design portfolio.
+
+## Professional Focus
+
+- [Digital Marketing and Google Ads](https://abhi-49.github.io/#services): Campaign planning, Google Ads management, PPC optimization, conversion tracking, lead generation, and marketing ROI improvement.
+- [SEO and Content Marketing](https://abhi-49.github.io/#services): On-page SEO, local SEO, keyword research, content optimization, organic search visibility, and search-focused content strategy.
+- [WordPress and Web Development](https://abhi-49.github.io/#services): Responsive websites, landing pages, WordPress management, WooCommerce, HTML, CSS, JavaScript, usability, and conversion-focused website improvements.
+- [Social Media and Meta Ads](https://abhi-49.github.io/#services): Facebook and Instagram advertising, social content, campaign creatives, audience engagement, and lead-generation campaigns.
+- [Marketing Analytics](https://abhi-49.github.io/#performance): Performance measurement using enquiries, conversions, CPL, ROI, Google Analytics, and campaign reporting.
+
+## Selected Performance
+
+- [Marketing Performance Overview](https://abhi-49.github.io/#performance): A 12-month campaign overview from May 2025 to April 2026 showing 2,181 enquiries, a 26.8% enquiry-to-patient conversion rate, AED 87 average CPL, and 459% overall net marketing ROI.
+
+## Optional
+
+- [Website Design Portfolio](https://abhi-49.github.io/websites.html): Additional examples of live website work.
+- [Creative Poster Portfolio](https://abhi-49.github.io/Posters.html): Visual examples of social media and promotional design work.
+- [PDF and Presentation Portfolio](https://abhi-49.github.io/PDF%26PPT.html): Examples of brochures, presentations, and marketing reports.
